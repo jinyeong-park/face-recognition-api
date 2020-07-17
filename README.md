@@ -1,2 +1,2 @@
 # face-recognition-api
-Face Recognition App Backend Server
+Face Recognition App api Backend Server
